@@ -8,9 +8,8 @@ any other resource pack.
 
 ## Installation
 
-* Download 
-  <https://github.com/bmc/mc-famous-paintings/archive/master.zip>, which
-  should result in a downloaded `mc-famous-paintings.zip` file.
+* Download [the resource pack zip file](https://github.com/bmc/mc-famous-paintings/archive/master.zip),
+  which should result in a downloaded `mc-famous-paintings.zip` file.
 * Follow [this tutorial](http://minecraft.gamepedia.com/Tutorials/Loading_a_resource_pack)
   to install the resource pack into your Minecraft installation.
 
