@@ -95,3 +95,5 @@ Edvard Munch
 Frida Kahlo
 
 - Detail of _Self-Portrait with Thorn Necklace and Hummingbird_ (1940)
+
+![Paintings](https://raw.githubusercontent.com/bmc/mc-famous-paintings/master/assets/minecraft/textures/painting/paintings_kristoffer_zetterstrand.png)
