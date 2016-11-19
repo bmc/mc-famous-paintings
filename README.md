@@ -13,6 +13,9 @@ any other resource pack.
 * Follow [this tutorial](http://minecraft.gamepedia.com/Tutorials/Loading_a_resource_pack)
   to install the resource pack into your Minecraft installation.
 
+**NOTE**: For Minecraft versions prior to 1.11, download 
+[mc-1.10.zip](https://github.com/bmc/mc-famous-paintings/archive/), instead.
+
 ## The Paintings
 
 The resource pack contains renderings of the following paintings.
